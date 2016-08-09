@@ -1962,7 +1962,7 @@
       },
       {
          "name" : "Vkontakte",
-         "check_uri" : "http://vk.com/{account}/",
+         "check_uri" : "https://new.vk.com/{account}/",
          "account_existence_code" : "200",
          "account_existence_string" : "vkontakte profile</title>",
          "account_missing_string" : "page not found",
